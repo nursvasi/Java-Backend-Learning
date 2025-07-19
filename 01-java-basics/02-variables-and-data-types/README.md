@@ -12,7 +12,7 @@ In this lesson, we learn how to declare variables in Java and use basic data typ
 | `char`    | Single character    | `'A'`        |
 | `String`  | Text (sequence)     | `"Hello"`    |
 
-## 🧪 Example Code:
+## 💻 Example Codes
 ```java
 public class Main {
     public static void main(String[] args) {
