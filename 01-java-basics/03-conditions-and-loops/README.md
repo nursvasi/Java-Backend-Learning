@@ -1,4 +1,4 @@
-# ⚙️ Conditions and Loops in Java
+# Lesson 3: Conditions and Loops
 
 This folder contains Java examples and exercises covering **conditional statements** and **loops**, which are essential building blocks for controlling the flow of your programs.
 
