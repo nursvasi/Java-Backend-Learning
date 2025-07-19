@@ -1,6 +1,6 @@
 # Lesson 1: Hello World
 
-## 🧪 Example Code
+## 💻 Example Codes
 
 ```java
 public class Main {
