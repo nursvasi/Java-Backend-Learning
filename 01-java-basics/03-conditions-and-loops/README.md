@@ -1,4 +1,4 @@
-# Conditions and Loops in Java
+# ⚙️ Conditions and Loops in Java
 
 This folder contains Java examples and exercises covering **conditional statements** and **loops**, which are essential building blocks for controlling the flow of your programs.
 
@@ -33,11 +33,11 @@ public class IfExample {
         }
     }
 }
+```
 
 ---
 
-
-### 🟡 If Else Statement
+### 🟡 If-Else Statement
 
 ```java
 public class IfElseExample {
@@ -50,9 +50,9 @@ public class IfElseExample {
         }
     }
 }
+```
 
 ---
-
 
 ### 🟠 If-Else If-Else Ladder
 
@@ -71,9 +71,9 @@ public class IfElseIfElseExample {
         }
     }
 }
+```
 
 ---
-
 
 ### 🔵 Switch Statement
 
@@ -96,9 +96,9 @@ public class SwitchExample {
         }
     }
 }
+```
 
 ---
-
 
 ### 🔁 For Loop
 
@@ -110,9 +110,9 @@ public class ForLoopExample {
         }
     }
 }
+```
 
 ---
-
 
 ### 🔂 While Loop
 
@@ -126,9 +126,9 @@ public class WhileLoopExample {
         }
     }
 }
+```
 
 ---
-
 
 ### 🔂 Do-While Loop
 
@@ -142,9 +142,9 @@ public class DoWhileExample {
         } while (i <= 5);
     }
 }
+```
 
 ---
-
 
 ### 🔀 Nested Loops
 
@@ -158,11 +158,11 @@ public class NestedLoopsExample {
         }
     }
 }
+```
 
 ---
 
-
-## ⚠️Important Note About Java File Names and Class Names
+## ⚠️ Important Note About Java File Names and Class Names
 
 In Java, the **file name must exactly match the name of the `public` class inside it**, including capitalization.
 
@@ -172,7 +172,12 @@ For example, if your class is declared as:
 public class NestedLoopsExample {
     // code here
 }
+```
 
 Then your file must be named:
 
+```
 NestedLoopsExample.java
+```
+
+If the file name and the class name do not match, the compiler will throw an error.
